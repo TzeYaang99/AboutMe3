@@ -13,7 +13,7 @@ import com.example.aboutme.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
-    private val myName: MyName = MyName("Chiam Ee Min")
+    private val myName: MyName = MyName("Ooi Tze Yaang")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
